@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#posLogo {
+    left: 54px;
+    visibility: inherit;
+    position: absolute;
+    top: 0;
+    width: 350px;
+    z-index: 1;
+}
+
+#abstand {
+    margin-top: 200px;
+    padding: 0;
+}
+
+.emailgif {
+    float: right;
+}
+
+#container {
+    width: 990px;
+    margin: 0 auto 0 0;
+    padding: 0;
+}
+
+#container a {
+    color: #0000CC;
+    text-decoration: underline;
+}
+
+#Col1 {
+    float: left;
+    width: 210px;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,14 @@
+<groups xmlns="http://www.isdc.ro/wro">
+    <group name="all">
+        <js>/static/vendor/js/jquery-*.js</js>
+        <js>/static/vendor/js/underscore-*.js</js>
+        <!--<css>/static/vendor/css/**</css>-->
+        <group-ref>project</group-ref>
+    </group>
+    <group name="project">
+        <js>/static/js/app.js</js>
+        <js>/static/js/s5.js</js>
+        <css>/static/css/style.css</css>
+        <css>/static/less/lesscss-org.css</css>
+    </group>
+</groups>
